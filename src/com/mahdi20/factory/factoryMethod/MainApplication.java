@@ -1,4 +1,4 @@
-package com.mahdi20.factoryMethod;
+package com.mahdi20.factory.factoryMethod;
 
 public class MainApplication {
 

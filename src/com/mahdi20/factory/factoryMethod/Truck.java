@@ -1,4 +1,4 @@
-package com.mahdi20.factoryMethod;
+package com.mahdi20.factory.factoryMethod;
 
 class Truck implements Transport {
 
