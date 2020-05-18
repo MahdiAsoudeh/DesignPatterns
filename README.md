@@ -20,6 +20,8 @@
 
 -Abs Factory ---> hamon factory method ba tanavvoe bishtare mahsol
 
+-Builder ---> sade sazi ejad kardane obj az class/ zamani ke property ziyade va hard code dost nadarim va ... 
+
 ////////////////////////////////////////////////////////
 
 +Structural
