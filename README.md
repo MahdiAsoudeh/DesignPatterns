@@ -36,6 +36,8 @@
 
 -Facade ---> hide kardane pichidegiye system / nasbe kelid be jaye sim pichi
 
+-Composite ---> tarkibe class va ashya/ dar code haye link list va ghraf mishe use kard
+
 ////////////////////////////////////////////////////////
 
 
