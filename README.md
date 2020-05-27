@@ -10,6 +10,8 @@
 
 -Null Object ---> jolo giri az null o exception va msg dehi be user
 
+-Iterator ---> kam kardane vabastegi/ taamole ashia va joda saziye ashya az ham 
+
 ////////////////////////////////////////////////////////
 
 +Creational
