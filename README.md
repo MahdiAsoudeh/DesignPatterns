@@ -14,6 +14,8 @@
 
 -State  ---> control ertebeate class ha ba mojodiyat ha/ zamani ke state ziyade be dard mikhore ta pichidegi kam beshe 
 
+-Chain Of Responsibility ---> joda saziye vazayef/ jolo giri az if else haye todar to/ item be item jolo raftan/ clean nevisi/ vabastegi kamtar/ ertebate rahat
+
 ////////////////////////////////////////////////////////
 
 +Creational
