@@ -10,7 +10,9 @@
 
 -Null Object ---> jolo giri az null o exception va msg dehi be user
 
--Iterator ---> kam kardane vabastegi/ taamole ashia va joda saziye ashya az ham 
+-Iterator ---> kam kardane vabastegi/ taamole ashia va joda saziye ashya az ham
+
+-State  ---> control ertebeate class ha ba mojidiyat ha/ zamani ke state ziyade be dard mikhore ta pichidegi kam beshe 
 
 ////////////////////////////////////////////////////////
 
