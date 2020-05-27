@@ -12,7 +12,7 @@
 
 -Iterator ---> kam kardane vabastegi/ taamole ashia va joda saziye ashya az ham
 
--State  ---> control ertebeate class ha ba mojidiyat ha/ zamani ke state ziyade be dard mikhore ta pichidegi kam beshe 
+-State  ---> control ertebeate class ha ba mojodiyat ha/ zamani ke state ziyade be dard mikhore ta pichidegi kam beshe 
 
 ////////////////////////////////////////////////////////
 
