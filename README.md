@@ -26,6 +26,8 @@
 
 -Builder ---> sade sazi ejad kardane obj az class/ zamani ke property ziyade va hard code dost nadarim va ... 
 
+-Prototype ---> kaheshe ers bari azafi/ hide kardane ashiyaye pichide/ jabejae ye ashya dar zamane ejra
+
 ////////////////////////////////////////////////////////
 
 +Structural
